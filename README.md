@@ -2,34 +2,34 @@
 
 ---
 
-## 💾 Aqui estará todas as ideias e tarefas futuras do meu projeto de cafeteria.
+## 💾 Here will be all the ideas and future tasks for my cafeteria project.
 
 ---
 
-# 📝 Tarefas a fazer:
+# 📝 Tasks to do:
 
-- [ ] 1 - Refazer o código para funcionar com dicionário e lista;
-- [ ] 2 - Refazer sistema de login;
-- [ ] 3 - Adicionar modo administrador para alterar o estoque.
-
----
-
-# 1 - Refazer o código para funcionar com dicionário e lista:
-
-- Utilizar dicionário e lista para deixar o projeto mais limpo;
-- Alterar o loop e a função para maior adequação com o dicionário.
+- [ ] 1 - Refactor the code to work with dictionary and list;
+- [ ] 2 - Refactor login system;
+- [ ] 3 - Add admin mode to change inventory.
 
 ---
 
-# 2 - Refazer sistema de login:
+# 1 - Refactor the code to work with dictionary and list:
 
-- Manter sistema de validação de cpf;
-- Criar sistema de login com nome e senha;
-- Adicionar validação a senha.
+- Use dictionary and list to keep the project cleaner;
+- Modify the loop and function for better fit with the dictionary.
 
 ---
 
-# 3 - Adicionar modo administrador para alterar o estoque:
+# 2 - Refactor login system:
 
-- Adicionar ao login um modo de administrador;
-- Fazer com que o administrador consiga alterar o estoque, dando baixa ou adicionando itens ao estoque da loja.
+- Keep CPF validation system;
+- Create login system with username and password;
+- Add password validation.
+
+---
+
+# 3 - Add admin mode to change inventory:
+
+- Add an admin mode to the login;
+- Allow the administrator to change the inventory, removing or adding items to the store's stock.
