@@ -2,7 +2,7 @@
 
 ---
 
-## 💾 Aqui estara todas as ideias e tarefas futuras do meu projeto de cafeteria.
+## 💾 Aqui estará todas as ideias e tarefas futuras do meu projeto de cafeteria.
 
 ---
 
