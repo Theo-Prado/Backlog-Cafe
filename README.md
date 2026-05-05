@@ -8,7 +8,7 @@
 
 # 📝 Tarefas a fazer:
 
-- [x] 1 - Refazer o código para funcionar com dicionário e lista;
+- [ ] 1 - Refazer o código para funcionar com dicionário e lista;
 - [ ] 2 - Refazer sistema de login;
 - [ ] 3 - Adicionar modo administrador para alterar o estoque.
 
