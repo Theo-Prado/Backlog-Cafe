@@ -1,4 +1,4 @@
-### ☕ Backlog Cafe
+# ☕ Backlog Cafe
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-# 📝 Tasks to do:
+### 📝 Tasks to do:
 
 - [ ] 1 - Refactor the code to work with dictionary and list;
 - [ ] 2 - Refactor login system;
@@ -14,14 +14,14 @@
 
 ---
 
-# 1 - Refactor the code to work with dictionary and list:
+### 1 - Refactor the code to work with dictionary and list:
 
 - Use dictionary and list to keep the project cleaner;
 - Modify the loop and function for better fit with the dictionary.
 
 ---
 
-# 2 - Refactor login system:
+### 2 - Refactor login system:
 
 - Keep CPF validation system;
 - Create login system with username and password;
@@ -29,7 +29,7 @@
 
 ---
 
-# 3 - Add admin mode to change inventory:
+### 3 - Add admin mode to change inventory:
 
 - Add an admin mode to the login;
 - Allow the administrator to change the inventory, removing or adding items to the store's stock.
