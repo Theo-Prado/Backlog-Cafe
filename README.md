@@ -8,7 +8,7 @@
 
 ### 📝 Tasks to do:
 
-- [ ] 1 - Refactor the code to work with dictionary and list;
+- [x] 1 - Refactor the code to work with dictionary and list;
 - [ ] 2 - Refactor login system;
 - [ ] 3 - Add admin mode to change inventory.
 
